@@ -1,0 +1,7 @@
+[build]
+command = "cd client && npm install --no-fund --no-audit && npm run build"
+publish = "client/dist"
+
+[build.environment]
+NODE_VERSION = "20"
+NPM_FLAGS = "--no-fund --no-audit"

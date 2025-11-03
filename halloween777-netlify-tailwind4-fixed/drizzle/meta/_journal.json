@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1761835290755,
+      "tag": "0000_perpetual_runaways",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1761835322105,
+      "tag": "0001_luxuriant_zaran",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1761839366897,
+      "tag": "0002_dark_skrulls",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1761841588831,
+      "tag": "0003_reflective_elektra",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1761843854678,
+      "tag": "0004_rapid_midnight",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1762038847478,
+      "tag": "0005_mysterious_slipstream",
+      "breakpoints": true
+    }
+  ]
+}
